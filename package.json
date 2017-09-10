@@ -1,0 +1,11 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gyp2017/spa.git",
+  "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd src/ch01 && python -m SimpleHTTPServer 8080"
+  }
+}
